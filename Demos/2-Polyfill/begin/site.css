@@ -1,0 +1,32 @@
+header {
+	margin-bottom: 50px;
+}
+section {
+	margin-left: 20px;
+}
+section p {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+article {
+	background: #CCCC99; 
+	padding: 2px; 
+	-moz-border-radius:10px; 
+	-webkit-border-radius:10px; 
+	border-radius:10px; 
+}
+article ul {
+	list-style: circle;
+}
+article li {
+	padding-bottom: 9px;
+}
+footer {
+	width: 100%;
+	position: absolute;
+	bottom: 25px;
+	text-align: center;
+}
+footer p {
+	font-size: 0.8em;
+}
